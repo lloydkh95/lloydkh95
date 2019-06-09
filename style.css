@@ -1,0 +1,49 @@
+.header{ 
+    background: #ebebeb;
+    font-family: arial;
+    font-size: 18px;
+    margin: 6px 125px;
+    text-align: center;
+    padding: 20px 20px;
+}
+.nav{
+    background: #ebebeb;
+    font-family: Helvetica;
+    font-size: 18px;
+    margin: 6px 125px;
+    text-align: center;
+    padding: 20px 20px;
+}
+.section{
+    background: #ebebeb;
+    font-family: sans-serif;
+    text-align:center;
+    font-size:18px;
+    margin: 25px 100px 25px 125px;
+    height: 350px;
+    width: 575px;
+    float: left;
+}
+.aside{
+    background: #ebebeb;
+    font-family: arial;
+    text-align: center;
+    font-size: 18px;
+    margin: 25px 100px;
+    height: 350px;
+    width: 400px;
+    position: relative;
+    float: left;
+}
+article {
+    background-color: black;
+    text-align: center;
+    height: 100px
+    width: 100px;
+}
+.entire-thing{
+     width: 650;
+}
+
+margin: 18px 125px 8px 775px;
+padding: 25px 300px 300px 250px;
